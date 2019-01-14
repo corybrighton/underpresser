@@ -1,0 +1,11 @@
+/home/cory/codeworks/underpressure/bin/Debug/netcoreapp2.2/underpressure.deps.json
+/home/cory/codeworks/underpressure/bin/Debug/netcoreapp2.2/underpressure.runtimeconfig.json
+/home/cory/codeworks/underpressure/bin/Debug/netcoreapp2.2/underpressure.runtimeconfig.dev.json
+/home/cory/codeworks/underpressure/bin/Debug/netcoreapp2.2/underpressure.dll
+/home/cory/codeworks/underpressure/bin/Debug/netcoreapp2.2/underpressure.pdb
+/home/cory/codeworks/underpressure/obj/Debug/netcoreapp2.2/underpressure.csprojAssemblyReference.cache
+/home/cory/codeworks/underpressure/obj/Debug/netcoreapp2.2/underpressure.csproj.CoreCompileInputs.cache
+/home/cory/codeworks/underpressure/obj/Debug/netcoreapp2.2/underpressure.AssemblyInfoInputs.cache
+/home/cory/codeworks/underpressure/obj/Debug/netcoreapp2.2/underpressure.AssemblyInfo.cs
+/home/cory/codeworks/underpressure/obj/Debug/netcoreapp2.2/underpressure.dll
+/home/cory/codeworks/underpressure/obj/Debug/netcoreapp2.2/underpressure.pdb
